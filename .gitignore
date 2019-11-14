@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+.gradle/
+.idea/
+*.iml
+local.properties
+app/.externalNativeBuild/
+app/build/
+
