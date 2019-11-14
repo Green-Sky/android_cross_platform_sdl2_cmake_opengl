@@ -1,0 +1,3 @@
+[submodule "app/jni/cross_platform_sdl2_cmake_opengl"]
+	path = app/jni/cross_platform_sdl2_cmake_opengl
+	url = https://github.com/Green-Sky/cross_platform_sdl2_cmake_opengl.git
